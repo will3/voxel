@@ -1,11 +1,11 @@
 var mesher = require('./mesher');
 
 /**
- * Mesh Chunks
+ * @function meshChunks
  * @param  {Chunks} chunks chunks to mesh
  * @param  {THREE.Object3D} parent parent object to mesh in
  * @param  {THREE.Material} material material to use
- * @param  {Object} an object with key origin hash and value cached geometry, 
+ * @param  {Object} cached an object with key origin hash and value cached geometry, 
  * if an empty object is passed, it will be populated for next use
  */
 module.exports = function(chunks, parent, material, cached) {

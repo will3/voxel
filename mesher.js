@@ -1,7 +1,7 @@
 var greedyMesher = require('./greedy').mesher;
 
 /**
- * Mesh Chunk
+ * @function mesher
  * @param {Chunk} chunk chunk to mesh
  * @param {queryFunction} f optional query function
  * @return {THREE.Geometry} meshed geometry
