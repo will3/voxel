@@ -1,5 +1,4 @@
 var greedyMesher = require('./greedy').mesher;
-var THREE = require('three');
 
 /**
  * Mesh Chunk

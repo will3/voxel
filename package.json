@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/will3/voxel/issues"
   },
-  "homepage": "https://github.com/will3/voxel#readme",
-  "dependencies": {
-    "three": "^0.79.0"
-  }
+  "homepage": "https://github.com/will3/voxel#readme"
 }

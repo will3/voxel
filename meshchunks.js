@@ -1,5 +1,4 @@
 var mesher = require('./mesher');
-var THREE = require('three');
 
 /**
  * Mesh Chunks
